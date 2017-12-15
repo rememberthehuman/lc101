@@ -1,3 +1,19 @@
+h1 {
+    color: green;
+    font-size: 150%;
+}
+
+
 p {
- margin-top: 100px;
- }
+    margin-top: 150px;
+    padding-top: 50px;
+    color: red;
+}
+
+.intro {
+    color: green;
+}
+
+#name {
+    color: blue;
+}
